@@ -1,0 +1,51 @@
+1.sayıyı al
+2.sayıyı al
+Eğer 1.sayı 2. sayıdan büyükse
+1.sayıyı yazdır
+değilse 2. sayıyı yazdır
+bitir
+
+vize_notu *0.4 + final_notu *0.6 = ortalama
+ortamalayı yazdır
+
+vize_not,final_not, ortalama tanımla
+vize_not al
+final_not al
+ortalama = vize_not *0.4 + final_not * 0.8
+ortalama yaz
+
+başla
+sayi tanımla
+sayi al
+Eğer sayi == 0 ise 0 yaz
+Eğer sayi < 0 ise negatif yaz
+Eğer sayi > 0 ise pozitif yaz
+bitir
+
+1-başla
+2-sayac = 0 tanımla
+3-eğer sayac < 10 ise 
+4-Enes yaz 
+5-sayac += 1 yap 3. adıma git
+6-bitir
+ 
+1- başla
+2- sayac=0,sayi tanımla
+3-Eğer sayac < 100 ise
+4-Eğer sayi %2 == 1 ise 
+5- sayi yazdır
+6- sayac += 1 yap 3.adıma git
+7-bitir
+
+klavyeden fiyat girilecek
+kdv = fiyat *0.18
+sonuc = fiyat + kdv
+sonuc = fiyat + fiyat * 0.18
+
+1-başla
+2-fiyat tanımla
+3-fiyat al
+4-fiyat += fiyat * 0.18
+5-fiyat yazdır
+6-bitir
+

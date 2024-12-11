@@ -47,5 +47,13 @@ Birbirinden farklı olarak verilen iki adet sayıdan, büyük olanı bulup göst
 #elif sayi > 0:
 #    print("Sayı pozitif bir sayı.")
 
-for sayac in range(10):
-    print("Enes")
+#for sayac in range(10):
+#   print("Programcı")
+
+#for sayi in range(1000):
+#    if sayi % 2 == 1:
+#        print(sayi)
+
+#fiyat = int(input("Fiyat: "))
+#fiyat += fiyat * 0.18
+#print(fiyat)
